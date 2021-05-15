@@ -1,0 +1,36 @@
+body{
+    background-color:#BDBDBD;
+}
+
+header{
+    width: 700px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+}
+#main{
+    width: 700px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+}
+.h2-time{
+   display: flex; 
+}
+.span{
+   padding-top: 30px;
+   color: darkgray;
+}
+.h2{
+    padding-right: 500px;
+}
+img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  
+}
+.footer{
+    padding: 10px;
+}
